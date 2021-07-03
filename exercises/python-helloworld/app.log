@@ -1,0 +1,7 @@
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:app:2021-07-04 01:30:43.662065, status was reached successfully
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 01:30:43] "GET /status HTTP/1.1" 200 -
+INFO:app:2021-07-04 01:30:49.781367, root was reached successfully
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 01:30:49] "GET / HTTP/1.1" 200 -
+INFO:app:2021-07-04 01:30:56.622676, metrics was reached successfully
+INFO:werkzeug:127.0.0.1 - - [04/Jul/2021 01:30:56] "GET /metrics HTTP/1.1" 200 -
